@@ -14,10 +14,10 @@ ipfs://Qme98CG6jxFmsv55gqXZks1SHTGoNXJtj5TXjLUPrfvavd
 contracts/interfaces/IWAVAX.sol : 
 ipfs://QmbXWpP1LESJ11q28XFNLSTFKUhmMedMrNBGkzoWAo3rSr
 contracts/libraries/PartyLibrary.sol : 
-ipfs://QmQk4ABfMn4McRFRQuqJ8Gkfv2ZsaA6JuZfwYX3LDcTkxH
+ipfs://QmXBYwRVcDPQ9YDRJtcE7AevAmG6rmeSViR8tkgaP3M825
 contracts/libraries/SafeMath.sol : 
 ipfs://QmUAdiG9XNcieXkKfiMB49zQqD34FbXFE15csV2KQzwEqg
 metadata.json : 
-ipfs://QmPYfgEoSA12e4dhbvz7k2RVRBw6GXXp6sWB36uxR5aq7h
+ipfs://QmfZrBwMmAMzDKFHG7TNDS34Ujc4E7YLLBZUQ4TDPK6k5j
 
-Router Address at Avalanche: 0xC26a7053Ecb3F0de33e403648D99738Eb35c4DaA
+Router Address at Avalanche: 0xBD2dc038863a9B4E404c29173E77e7f31d75e5b9
