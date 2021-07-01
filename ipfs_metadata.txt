@@ -1,0 +1,23 @@
+Metadata of "partyrouter" was published successfully.
+@partyswap-libs/lib/contracts/libraries/TransferHelper.sol : 
+ipfs://QmP3tKLxp812oAHYsLbc69ZFYrj9z5pASo65f5rJqmvnvd
+@partyswap-libs/party-swap-core/contracts/interfaces/IPartyFactory.sol : 
+ipfs://QmW9szkt2VXdkbtJrQAYSvJCcvs1yF2FYsb7jnm1LaRrHr
+@partyswap-libs/party-swap-core/contracts/interfaces/IPartyPair.sol : 
+ipfs://QmTETA8ePvn3haziozd6y6FAng8HokhZxE4MLyu8eGXFRa
+contracts/PartyRouter.sol : 
+ipfs://QmduhmjzXT941bH4zYVuJTAH6hMM6558wjvaXd49myk8Mc
+contracts/interfaces/IERC20.sol : 
+ipfs://QmSyY7iTugbczPwfGK67etiyPULenYGzzRYbt8aabwwkUb
+contracts/interfaces/IPartyRouter.sol : 
+ipfs://Qme98CG6jxFmsv55gqXZks1SHTGoNXJtj5TXjLUPrfvavd
+contracts/interfaces/IWAVAX.sol : 
+ipfs://QmbXWpP1LESJ11q28XFNLSTFKUhmMedMrNBGkzoWAo3rSr
+contracts/libraries/PartyLibrary.sol : 
+ipfs://QmQk4ABfMn4McRFRQuqJ8Gkfv2ZsaA6JuZfwYX3LDcTkxH
+contracts/libraries/SafeMath.sol : 
+ipfs://QmUAdiG9XNcieXkKfiMB49zQqD34FbXFE15csV2KQzwEqg
+metadata.json : 
+ipfs://QmPYfgEoSA12e4dhbvz7k2RVRBw6GXXp6sWB36uxR5aq7h
+
+Router Address at Avalanche: 0xC26a7053Ecb3F0de33e403648D99738Eb35c4DaA
