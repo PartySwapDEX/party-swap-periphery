@@ -1185,10 +1185,10 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
-"@partyswap-libs/party-swap-core@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@partyswap-libs/party-swap-core/-/party-swap-core-0.1.0.tgz#53c262ceef64cfa04cfa81cc553210a273a9f268"
-  integrity sha512-A71Z+4fpUagKtyLLwSuq72RTai6/bnXpL61NlR36ELBgz3I2CrL7ZZL5fyKTIw8f6n668gCYPO79betZnr9oJw==
+"@partyswap-libs/party-swap-core@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@partyswap-libs/party-swap-core/-/party-swap-core-0.1.2.tgz#3b6daa985e601ed503a59e78dce3a10a3bbffac1"
+  integrity sha512-nyaGO/BTcVw2OpSUXzjH/XuSb+7rB0MWptN5M5vuuJIszJaukStQVR8j2r76r17Jgmenpj1mLpKm2QA+iG5Nxg==
   dependencies:
     "@truffle/hdwallet-provider" "^1.4.0"
     dotenv "^10.0.0"
@@ -2191,16 +2191,6 @@
   version "0.8.2"
   resolved "https://registry.yarnpkg.com/@types/zen-observable/-/zen-observable-0.8.2.tgz#808c9fa7e4517274ed555fa158f2de4b4f468e71"
   integrity sha512-HrCIVMLjE1MOozVoD86622S7aunluLb2PJdPfb3nYiEtohm8mIB/vyv0Fd37AdeMFrTUQXEunw78YloMA3Qilg==
-
-"@uniswap/lib@1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@uniswap/lib/-/lib-1.1.1.tgz#0afd29601846c16e5d082866cbb24a9e0758e6bc"
-  integrity sha512-2yK7sLpKIT91TiS5sewHtOa7YuM8IuBXVl4GZv2jZFys4D2sY7K5vZh6MqD25TPA95Od+0YzCVq6cTF2IKrOmg==
-
-"@uniswap/v2-core@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@uniswap/v2-core/-/v2-core-1.0.1.tgz#af8f508bf183204779938969e2e54043e147d425"
-  integrity sha512-MtybtkUPSyysqLY2U210NBDeCHX+ltHt3oADGdjqoThZaFRDKwM6k1Nb3F0A3hk5hwuQvytFWhrWHOEq6nVJ8Q==
 
 "@web3-js/scrypt-shim@^0.1.0":
   version "0.1.0"

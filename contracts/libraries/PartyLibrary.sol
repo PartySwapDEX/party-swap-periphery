@@ -28,7 +28,7 @@ library PartyLibrary {
                         hex'ff',
                         factory,
                         keccak256(abi.encodePacked(token0, token1)),
-                        hex'e1e9461caebef1b14301d343fb06be84a6abb3f69f4fbb98f81f45bfe14b165d' // init code hash
+                        hex'cbda9968f967420538484743593e9a8046f7d15613353b0b4b23e21d4a0ea8fb' // init code hash
                     )
                 )
             )

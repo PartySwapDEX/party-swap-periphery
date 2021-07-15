@@ -1,6 +1,6 @@
 {
   "name": "@partyswap-libs/party-swap-periphery",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "🎚 Peripheral smart contracts for interacting with Party",
   "engines": {
     "node": ">=10"
@@ -15,7 +15,7 @@
     "contracts"
   ],
   "dependencies": {
-    "@partyswap-libs/party-swap-core": "^0.1.0",
+    "@partyswap-libs/party-swap-core": "^0.1.2",
     "truffle-hdwallet-provider": "^1.0.17",
     "truffle-plugin-verify": "^0.4.0"
   },
