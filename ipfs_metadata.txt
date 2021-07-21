@@ -1,27 +1,3 @@
-Metadata of "partyrouter" was published successfully.
-@partyswap-libs/lib/contracts/libraries/TransferHelper.sol : 
-ipfs://QmP3tKLxp812oAHYsLbc69ZFYrj9z5pASo65f5rJqmvnvd
-@partyswap-libs/party-swap-core/contracts/interfaces/IPartyFactory.sol : 
-ipfs://QmW9szkt2VXdkbtJrQAYSvJCcvs1yF2FYsb7jnm1LaRrHr
-@partyswap-libs/party-swap-core/contracts/interfaces/IPartyPair.sol : 
-ipfs://QmTETA8ePvn3haziozd6y6FAng8HokhZxE4MLyu8eGXFRa
-contracts/PartyRouter.sol : 
-ipfs://QmduhmjzXT941bH4zYVuJTAH6hMM6558wjvaXd49myk8Mc
-contracts/interfaces/IERC20.sol : 
-ipfs://QmSyY7iTugbczPwfGK67etiyPULenYGzzRYbt8aabwwkUb
-contracts/interfaces/IPartyRouter.sol : 
-ipfs://Qme98CG6jxFmsv55gqXZks1SHTGoNXJtj5TXjLUPrfvavd
-contracts/interfaces/IWAVAX.sol : 
-ipfs://QmbXWpP1LESJ11q28XFNLSTFKUhmMedMrNBGkzoWAo3rSr
-contracts/libraries/PartyLibrary.sol : 
-ipfs://QmXBYwRVcDPQ9YDRJtcE7AevAmG6rmeSViR8tkgaP3M825
-contracts/libraries/SafeMath.sol : 
-ipfs://QmUAdiG9XNcieXkKfiMB49zQqD34FbXFE15csV2KQzwEqg
-metadata.json : 
-ipfs://QmfZrBwMmAMzDKFHG7TNDS34Ujc4E7YLLBZUQ4TDPK6k5j
-
-Router Address at Avalanche: 0xBD2dc038863a9B4E404c29173E77e7f31d75e5b9
-
 Deploying 'PartyRouter' ON FUJI
    -----------------------
    > transaction hash:    0x06c3a1522a576bbfe5e3fbab5ab5c93306bffc9fa53e621c82918f17e6bd72f8
@@ -35,9 +11,3 @@ Deploying 'PartyRouter' ON FUJI
    > gas price:           225 gwei
    > value sent:          0 ETH
    > total cost:          0.87969285 ETH
-
-
-   > Saving migration to chain.
-   > Saving artifacts
-   -------------------------------------
-   > Total cost:          0.87969285 ETH
