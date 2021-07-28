@@ -1,3 +1,27 @@
+# MAINNET
+
+Replacing 'PartyRouter'
+
+---
+
+- transaction hash: 0x86519ac37fe1f3e8051f4283588eb8369fccbaa8975426af17485135cab4ed95
+- Blocks: 0 Seconds: 4
+- contract address: 0xC74eCA6CcD55f8859CC513CED47A4B56af330d35
+- block number: 2793640
+- block timestamp: 1627441895
+- account: 0x3b73F15142945f260148aDa3Db15b0657D12831C
+- balance: 1.97604485
+- gas used: 3909758 (0x3ba87e)
+- gas price: 225 gwei
+- value sent: 0 ETH
+- total cost: 0.87969555 ETH
+
+---
+
+- Total cost: 0.87969555 ETH
+
+---
+
 # FUJI
 
 'PartyRouter'

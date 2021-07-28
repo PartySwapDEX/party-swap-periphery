@@ -31,15 +31,15 @@ module.exports = {
       provider: function () {
         return new HDWalletProvider({
           mnemonic,
-          providerOrUrl: `https://avalanche--mainnet--rpc.datahub.figment.io/apikey/${APIKEY}/ext/bc/C/rpc`,
-          chainId: "0xa86a"
+          providerOrUrl: `https://api.avax.network/ext/bc/C/rpc`,
+          chainId: 43114
         })
       },
       network_id: "*",
-      gas: 8000000,
+      gas: 5000000,
       gasPrice: 225000000000,
-      skipDryRun: true
-    }
+      skipDryRun: true,
+    },
   },
   compilers: {
     solc: {
