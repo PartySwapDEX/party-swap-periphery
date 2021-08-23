@@ -3,4 +3,4 @@ node_modules/
 migrations/
 .env
 truffle-config.js
-contracts/Migration.sol
+contracts/Migrations.sol
